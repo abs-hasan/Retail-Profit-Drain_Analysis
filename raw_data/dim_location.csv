@@ -1,0 +1,51 @@
+location_key,store_id,city,state,country,warehouse_flag
+1,STORE0001,Bellstad,South Carolina,Saint Martin,0
+2,STORE0002,Anthonyton,California,Togo,1
+3,STORE0003,Leehaven,Georgia,Guadeloupe,0
+4,STORE0004,Lake Jameshaven,Hawaii,Burkina Faso,1
+5,STORE0005,East Roberthaven,Rhode Island,Mayotte,1
+6,STORE0006,North Cristianhaven,North Dakota,Greece,1
+7,STORE0007,Pottsstad,Rhode Island,Taiwan,0
+8,STORE0008,Lake Jamesfort,Hawaii,Reunion,1
+9,STORE0009,Alexismouth,Arkansas,Sierra Leone,0
+10,STORE0010,Tyronemouth,Connecticut,Belgium,1
+11,STORE0011,Duranshire,Oklahoma,New Zealand,0
+12,STORE0012,New Alexandertown,Oregon,Algeria,0
+13,STORE0013,South Meghanmouth,Rhode Island,Austria,1
+14,STORE0014,South Johnchester,Massachusetts,Macao,1
+15,STORE0015,Colemanchester,Alabama,Ecuador,1
+16,STORE0016,New Kristinstad,Wisconsin,Israel,0
+17,STORE0017,Thomasbury,Nevada,Central African Republic,0
+18,STORE0018,Mcintyreside,Maryland,Norfolk Island,1
+19,STORE0019,East Laura,Delaware,Israel,0
+20,STORE0020,Thomaston,Oklahoma,Bosnia and Herzegovina,1
+21,STORE0021,West Maryshire,Tennessee,Turkmenistan,0
+22,STORE0022,West Jessicaland,Tennessee,Colombia,1
+23,STORE0023,West Richard,Illinois,Japan,1
+24,STORE0024,West Anna,New Jersey,Guadeloupe,0
+25,STORE0025,Robertschester,Alaska,Malta,0
+26,STORE0026,Mitchellland,Montana,Saint Pierre and Miquelon,1
+27,STORE0027,New Audreyton,Oregon,Andorra,1
+28,STORE0028,South Luis,Alabama,British Virgin Islands,1
+29,STORE0029,New Donna,Kentucky,Madagascar,1
+30,STORE0030,Martinview,Idaho,El Salvador,0
+31,STORE0031,North Edwinton,Indiana,Greece,0
+32,STORE0032,Shaunstad,Maine,Belgium,0
+33,STORE0033,East Brenda,New Mexico,Thailand,0
+34,STORE0034,Michellefort,Washington,Svalbard & Jan Mayen Islands,1
+35,STORE0035,West Joseph,Minnesota,Anguilla,0
+36,STORE0036,Frenchport,South Carolina,Philippines,0
+37,STORE0037,Heatherberg,New Jersey,Northern Mariana Islands,0
+38,STORE0038,Thomasfort,Alabama,Ghana,1
+39,STORE0039,South Kimberly,Pennsylvania,Bhutan,0
+40,STORE0040,New Joseberg,Oregon,French Guiana,0
+41,STORE0041,Melissachester,Rhode Island,Russian Federation,0
+42,STORE0042,Richardside,Tennessee,Gambia,0
+43,STORE0043,East Kyle,Nevada,Kenya,1
+44,STORE0044,Roseburgh,Tennessee,Jordan,1
+45,STORE0045,Henrytown,Colorado,Brunei Darussalam,1
+46,STORE0046,Michelleborough,Pennsylvania,Congo,1
+47,STORE0047,Port Christopher,West Virginia,Sudan,1
+48,STORE0048,Jacobport,Michigan,Israel,1
+49,STORE0049,Smithport,West Virginia,French Southern Territories,1
+50,STORE0050,Elizabethland,Mississippi,Palestinian Territory,1
