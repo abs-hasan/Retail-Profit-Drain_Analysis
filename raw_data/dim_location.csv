@@ -1,51 +1,251 @@
 location_key,store_id,city,state,country,warehouse_flag
-1,STORE0001,Bellstad,South Carolina,Saint Martin,0
-2,STORE0002,Anthonyton,California,Togo,1
-3,STORE0003,Leehaven,Georgia,Guadeloupe,0
-4,STORE0004,Lake Jameshaven,Hawaii,Burkina Faso,1
-5,STORE0005,East Roberthaven,Rhode Island,Mayotte,1
-6,STORE0006,North Cristianhaven,North Dakota,Greece,1
-7,STORE0007,Pottsstad,Rhode Island,Taiwan,0
-8,STORE0008,Lake Jamesfort,Hawaii,Reunion,1
-9,STORE0009,Alexismouth,Arkansas,Sierra Leone,0
-10,STORE0010,Tyronemouth,Connecticut,Belgium,1
-11,STORE0011,Duranshire,Oklahoma,New Zealand,0
-12,STORE0012,New Alexandertown,Oregon,Algeria,0
-13,STORE0013,South Meghanmouth,Rhode Island,Austria,1
-14,STORE0014,South Johnchester,Massachusetts,Macao,1
-15,STORE0015,Colemanchester,Alabama,Ecuador,1
-16,STORE0016,New Kristinstad,Wisconsin,Israel,0
-17,STORE0017,Thomasbury,Nevada,Central African Republic,0
-18,STORE0018,Mcintyreside,Maryland,Norfolk Island,1
-19,STORE0019,East Laura,Delaware,Israel,0
-20,STORE0020,Thomaston,Oklahoma,Bosnia and Herzegovina,1
-21,STORE0021,West Maryshire,Tennessee,Turkmenistan,0
-22,STORE0022,West Jessicaland,Tennessee,Colombia,1
-23,STORE0023,West Richard,Illinois,Japan,1
-24,STORE0024,West Anna,New Jersey,Guadeloupe,0
-25,STORE0025,Robertschester,Alaska,Malta,0
-26,STORE0026,Mitchellland,Montana,Saint Pierre and Miquelon,1
-27,STORE0027,New Audreyton,Oregon,Andorra,1
-28,STORE0028,South Luis,Alabama,British Virgin Islands,1
-29,STORE0029,New Donna,Kentucky,Madagascar,1
-30,STORE0030,Martinview,Idaho,El Salvador,0
-31,STORE0031,North Edwinton,Indiana,Greece,0
-32,STORE0032,Shaunstad,Maine,Belgium,0
-33,STORE0033,East Brenda,New Mexico,Thailand,0
-34,STORE0034,Michellefort,Washington,Svalbard & Jan Mayen Islands,1
-35,STORE0035,West Joseph,Minnesota,Anguilla,0
-36,STORE0036,Frenchport,South Carolina,Philippines,0
-37,STORE0037,Heatherberg,New Jersey,Northern Mariana Islands,0
-38,STORE0038,Thomasfort,Alabama,Ghana,1
-39,STORE0039,South Kimberly,Pennsylvania,Bhutan,0
-40,STORE0040,New Joseberg,Oregon,French Guiana,0
-41,STORE0041,Melissachester,Rhode Island,Russian Federation,0
-42,STORE0042,Richardside,Tennessee,Gambia,0
-43,STORE0043,East Kyle,Nevada,Kenya,1
-44,STORE0044,Roseburgh,Tennessee,Jordan,1
-45,STORE0045,Henrytown,Colorado,Brunei Darussalam,1
-46,STORE0046,Michelleborough,Pennsylvania,Congo,1
-47,STORE0047,Port Christopher,West Virginia,Sudan,1
-48,STORE0048,Jacobport,Michigan,Israel,1
-49,STORE0049,Smithport,West Virginia,French Southern Territories,1
-50,STORE0050,Elizabethland,Mississippi,Palestinian Territory,1
+1,STR0001,South Ericville,Alabama,Australia,0
+2,STR0002,Leburgh,North Carolina,Australia,0
+3,STR0003,Port Elizabeth,North Carolina,Australia,0
+4,STR0004,New Tammyview,Iowa,Australia,0
+5,STR0005,North Frankmouth,West Virginia,Australia,1
+6,STR0006,Port Darrellbury,Montana,Australia,0
+7,STR0007,North Aaron,Nebraska,Australia,1
+8,STR0008,Craigfurt,Wyoming,Australia,1
+9,STR0009,Tuckershire,Indiana,Australia,0
+10,STR0010,West Sandraville,Maryland,Australia,1
+11,STR0011,New Amberville,Wisconsin,Australia,0
+12,STR0012,Adamston,Louisiana,Australia,1
+13,STR0013,North Davidview,Iowa,Australia,0
+14,STR0014,Anitaburgh,South Dakota,Australia,0
+15,STR0015,Simpsonchester,Minnesota,Australia,1
+16,STR0016,North Coreyside,Oregon,Australia,1
+17,STR0017,North Amyland,Michigan,Australia,0
+18,STR0018,Barberland,Virginia,Australia,0
+19,STR0019,Catherineburgh,Connecticut,Australia,0
+20,STR0020,Port Jessicashire,Maryland,Australia,0
+21,STR0021,Christyshire,Alaska,Australia,1
+22,STR0022,Antonioshire,Oregon,Australia,1
+23,STR0023,Ericberg,Rhode Island,Australia,1
+24,STR0024,East Robertside,Vermont,Australia,1
+25,STR0025,Sanchezshire,Hawaii,Australia,1
+26,STR0026,South Virginiabury,Wyoming,Australia,0
+27,STR0027,East Lisa,Utah,Australia,0
+28,STR0028,Chapmanmouth,Indiana,Australia,1
+29,STR0029,Fryehaven,Ohio,Australia,0
+30,STR0030,Matthewhaven,Wisconsin,Australia,1
+31,STR0031,North Gracestad,Idaho,Australia,0
+32,STR0032,North Joshua,Washington,Australia,1
+33,STR0033,West Lauraside,Kentucky,Australia,1
+34,STR0034,Garciaport,Michigan,Australia,1
+35,STR0035,East Nicole,Illinois,Australia,1
+36,STR0036,Boyermouth,Minnesota,Australia,0
+37,STR0037,New Michaelbury,Montana,Australia,0
+38,STR0038,North Thomasbury,Tennessee,Australia,0
+39,STR0039,New Raymondfort,Illinois,Australia,0
+40,STR0040,Port Patriciaburgh,Connecticut,Australia,0
+41,STR0041,New Lisa,Michigan,Australia,0
+42,STR0042,Lake Cody,West Virginia,Australia,0
+43,STR0043,West Kimberlyshire,Maryland,Australia,1
+44,STR0044,Port Michaelburgh,Massachusetts,Australia,0
+45,STR0045,New Nicole,Massachusetts,Australia,1
+46,STR0046,North Lisa,Delaware,Australia,1
+47,STR0047,Lake Ryan,New Hampshire,Australia,1
+48,STR0048,South Heidi,Alaska,Australia,0
+49,STR0049,Sarahstad,Idaho,Australia,1
+50,STR0050,Jessicahaven,Ohio,Australia,1
+51,STR0051,Port Jessica,Rhode Island,Australia,0
+52,STR0052,Cookstad,Oklahoma,Australia,1
+53,STR0053,West Roy,Nebraska,Australia,1
+54,STR0054,Williamsport,New Jersey,Australia,0
+55,STR0055,Monroefort,Florida,Australia,0
+56,STR0056,South Dakota,Nevada,Australia,0
+57,STR0057,Shawnborough,Ohio,Australia,0
+58,STR0058,Parkstad,New York,Australia,0
+59,STR0059,South Monique,Washington,Australia,1
+60,STR0060,South William,Georgia,Australia,0
+61,STR0061,West Bethanyside,Mississippi,Australia,0
+62,STR0062,Timothyfort,Alaska,Australia,1
+63,STR0063,Garciaview,Montana,Australia,1
+64,STR0064,Mooremouth,Minnesota,Australia,1
+65,STR0065,Susanshire,Illinois,Australia,0
+66,STR0066,Amystad,Nevada,Australia,1
+67,STR0067,South Molly,Connecticut,Australia,1
+68,STR0068,North Gracetown,Mississippi,Australia,0
+69,STR0069,Ballardfort,Delaware,Australia,1
+70,STR0070,South Adrian,Colorado,Australia,1
+71,STR0071,North Donna,Michigan,Australia,0
+72,STR0072,Port Kristifort,Colorado,Australia,0
+73,STR0073,Lake Timothy,Delaware,Australia,1
+74,STR0074,Terryfort,Oklahoma,Australia,0
+75,STR0075,Larsonport,Alabama,Australia,1
+76,STR0076,Perezland,Georgia,Australia,0
+77,STR0077,Valdezside,Minnesota,Australia,1
+78,STR0078,Katiehaven,West Virginia,Australia,1
+79,STR0079,Rileyland,Alaska,Australia,0
+80,STR0080,Harrisfurt,South Carolina,Australia,1
+81,STR0081,Smithberg,Wisconsin,Australia,1
+82,STR0082,Hallbury,Nebraska,Australia,1
+83,STR0083,North Jasmineville,Nebraska,Australia,1
+84,STR0084,East Lauraland,Indiana,Australia,1
+85,STR0085,Johnside,Colorado,Australia,1
+86,STR0086,North Sherrifurt,Minnesota,Australia,0
+87,STR0087,Laurenborough,Maryland,Australia,1
+88,STR0088,Youngland,Massachusetts,Australia,0
+89,STR0089,Lake Danielleville,New Hampshire,Australia,1
+90,STR0090,East Davidtown,Rhode Island,Australia,0
+91,STR0091,Williamsmouth,Illinois,Australia,0
+92,STR0092,Rogerston,Montana,Australia,1
+93,STR0093,Lake Jenniferport,Texas,Australia,0
+94,STR0094,New Debbieburgh,Nevada,Australia,1
+95,STR0095,Port Catherine,Montana,Australia,1
+96,STR0096,Russellberg,North Carolina,Australia,0
+97,STR0097,Thomaston,Idaho,Australia,1
+98,STR0098,North Erin,Oregon,Australia,1
+99,STR0099,North Zacharyfurt,Rhode Island,Australia,1
+100,STR0100,Lisabury,West Virginia,Australia,1
+101,STR0101,South Christopherfort,Kansas,Australia,0
+102,STR0102,Montgomerychester,Florida,Australia,1
+103,STR0103,Cristianberg,New York,Australia,0
+104,STR0104,Foleyview,Michigan,Australia,1
+105,STR0105,Amandaport,Vermont,Australia,0
+106,STR0106,Caitlinfurt,North Carolina,Australia,1
+107,STR0107,West Brooke,Virginia,Australia,0
+108,STR0108,Kevinland,Florida,Australia,0
+109,STR0109,North Ashleyburgh,West Virginia,Australia,1
+110,STR0110,Lake Jacqueline,Alaska,Australia,1
+111,STR0111,Jamiestad,North Carolina,Australia,0
+112,STR0112,Beckhaven,South Carolina,Australia,1
+113,STR0113,Bruceshire,New Jersey,Australia,0
+114,STR0114,Mejiaport,Texas,Australia,1
+115,STR0115,Waltersfurt,Indiana,Australia,1
+116,STR0116,South Terri,Rhode Island,Australia,1
+117,STR0117,Millerfurt,New Hampshire,Australia,1
+118,STR0118,Annefurt,Iowa,Australia,0
+119,STR0119,Jimmyburgh,Michigan,Australia,0
+120,STR0120,North Brendaborough,New Mexico,Australia,0
+121,STR0121,North Andrea,Illinois,Australia,1
+122,STR0122,North Hollytown,Utah,Australia,1
+123,STR0123,Ericland,Oregon,Australia,0
+124,STR0124,East Maria,Tennessee,Australia,1
+125,STR0125,Bernardmouth,Arizona,Australia,0
+126,STR0126,East Raymondhaven,Virginia,Australia,1
+127,STR0127,Lake Spencer,Michigan,Australia,1
+128,STR0128,South Thomasview,Indiana,Australia,1
+129,STR0129,Jillton,Wisconsin,Australia,1
+130,STR0130,East Christine,Texas,Australia,0
+131,STR0131,Romeroborough,Michigan,Australia,0
+132,STR0132,Hudsonborough,Maryland,Australia,1
+133,STR0133,South Robertfurt,Washington,Australia,1
+134,STR0134,Courtneyview,Mississippi,Australia,1
+135,STR0135,North Matthewfort,Texas,Australia,1
+136,STR0136,South Nicholas,Alaska,Australia,1
+137,STR0137,Peterchester,Washington,Australia,1
+138,STR0138,Kristinport,Michigan,Australia,0
+139,STR0139,Callahanshire,Louisiana,Australia,1
+140,STR0140,Joshuaberg,New Hampshire,Australia,0
+141,STR0141,New Steven,Colorado,Australia,1
+142,STR0142,Lake Kimberlytown,New Mexico,Australia,0
+143,STR0143,Lake Susanhaven,Michigan,Australia,0
+144,STR0144,Laurieberg,Montana,Australia,0
+145,STR0145,Robertshire,Idaho,Australia,0
+146,STR0146,Travisside,Arkansas,Australia,0
+147,STR0147,Perrybury,Arizona,Australia,0
+148,STR0148,North Michele,Ohio,Australia,1
+149,STR0149,Lake Sarah,California,Australia,0
+150,STR0150,South Claire,Vermont,Australia,0
+151,STR0151,East Sharontown,Alabama,Australia,0
+152,STR0152,Grimesstad,California,Australia,0
+153,STR0153,East Randyville,Virginia,Australia,0
+154,STR0154,Amandaborough,North Dakota,Australia,1
+155,STR0155,Williamsburgh,Missouri,Australia,0
+156,STR0156,Cookmouth,Alabama,Australia,0
+157,STR0157,Wileyville,Michigan,Australia,0
+158,STR0158,Port Matthew,California,Australia,0
+159,STR0159,Jeanview,Minnesota,Australia,1
+160,STR0160,Walkerborough,New Hampshire,Australia,0
+161,STR0161,New Richard,New Mexico,Australia,1
+162,STR0162,Garzaberg,Colorado,Australia,0
+163,STR0163,Lake Christopher,Ohio,Australia,0
+164,STR0164,Thompsonshire,Idaho,Australia,0
+165,STR0165,Lisaside,South Dakota,Australia,0
+166,STR0166,Lake Richardland,Nevada,Australia,0
+167,STR0167,Port Latashamouth,Oregon,Australia,0
+168,STR0168,Kevinburgh,North Carolina,Australia,1
+169,STR0169,Lake Jordan,Delaware,Australia,0
+170,STR0170,South Matthew,Louisiana,Australia,1
+171,STR0171,Port Jasonborough,Idaho,Australia,1
+172,STR0172,Mistyville,Florida,Australia,1
+173,STR0173,Ronaldstad,Iowa,Australia,1
+174,STR0174,West Jamesport,Wyoming,Australia,0
+175,STR0175,North Josephborough,Kentucky,Australia,1
+176,STR0176,Antoniofurt,Massachusetts,Australia,0
+177,STR0177,West John,Connecticut,Australia,1
+178,STR0178,Geraldville,Rhode Island,Australia,1
+179,STR0179,Edwardsbury,Utah,Australia,1
+180,STR0180,South Christina,Colorado,Australia,1
+181,STR0181,Jenkinsbury,Utah,Australia,1
+182,STR0182,Lake Stanleyshire,Iowa,Australia,0
+183,STR0183,Michaelton,Louisiana,Australia,0
+184,STR0184,South Alexandra,Maine,Australia,0
+185,STR0185,Benjaminport,Indiana,Australia,1
+186,STR0186,Brooksville,Idaho,Australia,1
+187,STR0187,Stephanieview,North Carolina,Australia,1
+188,STR0188,North Timothyland,Connecticut,Australia,0
+189,STR0189,Lake Kylefurt,Wisconsin,Australia,0
+190,STR0190,Fordchester,Kansas,Australia,1
+191,STR0191,East Lisaport,West Virginia,Australia,0
+192,STR0192,East Jasonport,Rhode Island,Australia,0
+193,STR0193,Watkinsport,Iowa,Australia,1
+194,STR0194,South Robert,Indiana,Australia,1
+195,STR0195,East Veronicachester,Illinois,Australia,1
+196,STR0196,New Robertview,Connecticut,Australia,1
+197,STR0197,Rileybury,Louisiana,Australia,1
+198,STR0198,New Brianmouth,Rhode Island,Australia,1
+199,STR0199,Medinaside,Missouri,Australia,0
+200,STR0200,North Sean,Florida,Australia,0
+201,STR0201,North Oliviachester,Oregon,Australia,1
+202,STR0202,Vargasshire,North Carolina,Australia,1
+203,STR0203,North Gregorymouth,Idaho,Australia,1
+204,STR0204,Pamelaview,Maine,Australia,1
+205,STR0205,North Lynn,Indiana,Australia,0
+206,STR0206,East Tiffany,Illinois,Australia,0
+207,STR0207,Port Amandamouth,Ohio,Australia,0
+208,STR0208,Cherylbury,West Virginia,Australia,0
+209,STR0209,New Frank,Maryland,Australia,1
+210,STR0210,Lake Adrian,North Dakota,Australia,0
+211,STR0211,South Thomas,Mississippi,Australia,0
+212,STR0212,South Danielleborough,Alaska,Australia,0
+213,STR0213,Valenciaberg,South Carolina,Australia,1
+214,STR0214,Lake Jessicafurt,Ohio,Australia,1
+215,STR0215,Walkerton,Arizona,Australia,1
+216,STR0216,Lisaside,Arkansas,Australia,0
+217,STR0217,Ramirezton,Pennsylvania,Australia,0
+218,STR0218,Matthewburgh,South Dakota,Australia,1
+219,STR0219,Port Megan,North Carolina,Australia,0
+220,STR0220,Annefurt,New York,Australia,0
+221,STR0221,Lake Joseph,Arkansas,Australia,1
+222,STR0222,Williamsfurt,New Mexico,Australia,0
+223,STR0223,East Lisa,Florida,Australia,1
+224,STR0224,North Brookeshire,New York,Australia,1
+225,STR0225,New Jessica,Arizona,Australia,0
+226,STR0226,Kingbury,Arizona,Australia,1
+227,STR0227,Willisview,New York,Australia,0
+228,STR0228,West Kenneth,Iowa,Australia,1
+229,STR0229,Benderport,New Mexico,Australia,0
+230,STR0230,Moralesburgh,Utah,Australia,1
+231,STR0231,Lake Kristopherville,New Hampshire,Australia,0
+232,STR0232,Shawnport,Oklahoma,Australia,1
+233,STR0233,Hollymouth,Florida,Australia,0
+234,STR0234,New Alexborough,Maine,Australia,1
+235,STR0235,Whiteport,Louisiana,Australia,0
+236,STR0236,West Shane,Arkansas,Australia,1
+237,STR0237,Port Destiny,Washington,Australia,1
+238,STR0238,Port Gina,Washington,Australia,1
+239,STR0239,Lake Candicechester,West Virginia,Australia,1
+240,STR0240,Thomasbury,Idaho,Australia,0
+241,STR0241,Coopershire,Illinois,Australia,1
+242,STR0242,Smithmouth,Georgia,Australia,0
+243,STR0243,Port Ruth,New Mexico,Australia,0
+244,STR0244,Darrellchester,Iowa,Australia,1
+245,STR0245,Jenningsshire,Washington,Australia,1
+246,STR0246,West Jaclyn,Wyoming,Australia,1
+247,STR0247,Coryshire,Idaho,Australia,0
+248,STR0248,Jenniferland,Arkansas,Australia,0
+249,STR0249,Seanport,Maryland,Australia,0
+250,STR0250,New Dianaside,Oregon,Australia,0
