@@ -34,6 +34,8 @@ CREATE TABLE dim_product (
 );
 
 DROP TABLE IF EXISTS dim_campaign;
+
+
 CREATE TABLE dim_campaign (
     campaign_key INT PRIMARY KEY,              -- Primary key: unique internal ID for each campaign
     campaign_id VARCHAR(50) NOT NULL UNIQUE,  -- Campaign code from marketing system
@@ -62,3 +64,50 @@ CREATE TABLE dim_supplier (
     contact_email VARCHAR(255),
     contact_phone VARCHAR(50)
 );
+
+
+DROP TABLE IF EXISTS dim_payment_method;
+CREATE TABLE dim_payment_method (
+    payment_method_id  VARCHAR(50) PRIMARY KEY,    -- business code
+    method_name        VARCHAR(100) NOT NULL,          
+    card_type          VARCHAR(50) NULL,               
+    created_at         DATETIME2 DEFAULT SYSUTCDATETIME()
+);
+
+
+DROP TABLE IF EXISTS dim_address;
+CREATE TABLE dim_address (
+    address_key INT PRIMARY KEY, 
+    address_id  VARCHAR(50),                   -- address code
+    street      VARCHAR(255) NULL,
+    city        VARCHAR(100) NULL,
+    state       VARCHAR(100) NULL,
+    postcode    VARCHAR(20) NULL,
+    country     VARCHAR(100) NULL
+);
+
+
+DROP TABLE IF EXISTS dim_warehouse;
+CREATE TABLE dim_warehouse (
+    warehouse_id  VARCHAR(50) NOT NULL,           -- business warehouse code
+    warehouse_key INT PRIMARY KEY,       -- surrogate/business key (should be unique)
+    address_key   INT NOT NULL,                      -- FK → dim_address.address_key
+    city          VARCHAR(100) NOT NULL,
+    region        VARCHAR(100) NOT NULL,
+    country       VARCHAR(100) NOT NULL,
+    sla_days      INT NULL,
+    created_at    DATETIME2 DEFAULT SYSUTCDATETIME(),
+    FOREIGN KEY (address_key) REFERENCES dim_address(address_key)
+);
+
+
+DROP TABLE IF EXISTS dim_marketing_segment;
+CREATE TABLE dim_marketing_segment (
+    segment_id          VARCHAR(50) PRIMARY KEY,    -- segment code
+    segment_name        VARCHAR(100) NOT NULL,          
+    segment_description VARCHAR(255) NULL
+);
+
+
+
+
