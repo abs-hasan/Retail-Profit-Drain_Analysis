@@ -1,101 +1,201 @@
 campaign_key,campaign_id,campaign_name,campaign_type,start_date,end_date,budget
-1,CAMPAIGN0001,Campaign 1,TV,2019-01-01,2019-02-22,37518.5
-2,CAMPAIGN0002,Campaign 2,Billboard,2019-12-05,2020-01-14,25416.75
-3,CAMPAIGN0003,Campaign 3,Social Media,2020-11-23,2020-12-02,39080.8
-4,CAMPAIGN0004,Campaign 4,Email,2021-05-23,2021-06-15,42078.5
-5,CAMPAIGN0005,Campaign 5,Radio,2022-03-18,2022-04-18,10091.78
-6,CAMPAIGN0006,Campaign 6,Radio,2022-03-24,2022-04-02,42633.0
-7,CAMPAIGN0007,Campaign 7,Radio,2021-10-26,2021-12-16,17259.76
-8,CAMPAIGN0008,Campaign 8,Radio,2020-10-21,2020-12-08,22753.28
-9,CAMPAIGN0009,Campaign 9,Social Media,2019-04-14,2019-05-08,31745.02
-10,CAMPAIGN0010,Campaign 10,Email,2020-10-13,2020-10-22,43409.17
-11,CAMPAIGN0011,Campaign 11,Radio,2021-09-13,2021-11-08,43704.24
-12,CAMPAIGN0012,Campaign 12,Billboard,2020-06-28,2020-08-25,17858.37
-13,CAMPAIGN0013,Campaign 13,Radio,2019-10-01,2019-11-25,19674.66
-14,CAMPAIGN0014,Campaign 14,Radio,2020-05-07,2020-07-02,28638.75
-15,CAMPAIGN0015,Campaign 15,Email,2022-01-14,2022-02-15,47142.5
-16,CAMPAIGN0016,Campaign 16,Radio,2022-11-25,2023-01-13,36952.83
-17,CAMPAIGN0017,Campaign 17,TV,2022-10-27,2022-12-18,30608.25
-18,CAMPAIGN0018,Campaign 18,Email,2019-10-19,2019-11-24,21980.83
-19,CAMPAIGN0019,Campaign 19,Radio,2020-04-13,2020-06-07,34393.11
-20,CAMPAIGN0020,Campaign 20,Social Media,2020-05-09,2020-05-24,31081.78
-21,CAMPAIGN0021,Campaign 21,Email,2020-03-11,2020-04-24,15954.97
-22,CAMPAIGN0022,Campaign 22,Email,2019-08-04,2019-09-08,40479.84
-23,CAMPAIGN0023,Campaign 23,Billboard,2020-07-20,2020-09-16,15006.9
-24,CAMPAIGN0024,Campaign 24,Social Media,2020-02-22,2020-03-22,9708.41
-25,CAMPAIGN0025,Campaign 25,Email,2019-06-13,2019-07-29,41696.21
-26,CAMPAIGN0026,Campaign 26,Billboard,2020-01-01,2020-01-21,27448.99
-27,CAMPAIGN0027,Campaign 27,Radio,2019-04-22,2019-05-23,6535.87
-28,CAMPAIGN0028,Campaign 28,Email,2022-09-28,2022-11-16,48490.59
-29,CAMPAIGN0029,Campaign 29,TV,2019-01-25,2019-03-06,34900.09
-30,CAMPAIGN0030,Campaign 30,Email,2019-09-17,2019-10-17,45637.56
-31,CAMPAIGN0031,Campaign 31,TV,2021-09-25,2021-10-25,19706.23
-32,CAMPAIGN0032,Campaign 32,TV,2021-04-01,2021-04-11,30484.85
-33,CAMPAIGN0033,Campaign 33,Email,2021-09-13,2021-11-04,33987.15
-34,CAMPAIGN0034,Campaign 34,Social Media,2021-10-13,2021-11-03,19994.52
-35,CAMPAIGN0035,Campaign 35,Social Media,2021-11-14,2021-11-26,7692.29
-36,CAMPAIGN0036,Campaign 36,Radio,2021-07-10,2021-08-29,10497.19
-37,CAMPAIGN0037,Campaign 37,Email,2022-05-13,2022-06-16,17653.52
-38,CAMPAIGN0038,Campaign 38,Social Media,2022-10-12,2022-11-02,7356.14
-39,CAMPAIGN0039,Campaign 39,Email,2019-02-20,2019-03-19,38071.91
-40,CAMPAIGN0040,Campaign 40,Radio,2020-12-31,2021-01-19,44076.63
-41,CAMPAIGN0041,Campaign 41,TV,2021-11-24,2021-12-18,10746.37
-42,CAMPAIGN0042,Campaign 42,Radio,2022-07-16,2022-08-31,39852.02
-43,CAMPAIGN0043,Campaign 43,Email,2020-08-03,2020-09-07,28412.59
-44,CAMPAIGN0044,Campaign 44,Social Media,2022-08-05,2022-08-23,11453.77
-45,CAMPAIGN0045,Campaign 45,Social Media,2019-08-26,2019-09-18,8229.12
-46,CAMPAIGN0046,Campaign 46,TV,2021-04-30,2021-06-08,37956.35
-47,CAMPAIGN0047,Campaign 47,Radio,2022-07-21,2022-08-22,15666.37
-48,CAMPAIGN0048,Campaign 48,Radio,2021-05-07,2021-05-31,12146.66
-49,CAMPAIGN0049,Campaign 49,TV,2022-03-11,2022-03-31,9480.08
-50,CAMPAIGN0050,Campaign 50,Billboard,2020-06-16,2020-07-25,26163.57
-51,CAMPAIGN0051,Campaign 51,Billboard,2022-07-29,2022-08-19,44032.9
-52,CAMPAIGN0052,Campaign 52,Radio,2020-05-06,2020-06-12,13326.75
-53,CAMPAIGN0053,Campaign 53,Billboard,2019-02-10,2019-03-11,18991.58
-54,CAMPAIGN0054,Campaign 54,Email,2022-06-16,2022-07-31,16401.27
-55,CAMPAIGN0055,Campaign 55,TV,2019-02-20,2019-03-31,17240.12
-56,CAMPAIGN0056,Campaign 56,Email,2020-11-09,2020-12-15,26045.45
-57,CAMPAIGN0057,Campaign 57,Social Media,2020-06-02,2020-06-29,49848.5
-58,CAMPAIGN0058,Campaign 58,Radio,2021-12-01,2021-12-21,33495.4
-59,CAMPAIGN0059,Campaign 59,Email,2019-10-11,2019-11-15,46138.73
-60,CAMPAIGN0060,Campaign 60,TV,2022-02-27,2022-04-25,20306.4
-61,CAMPAIGN0061,Campaign 61,Radio,2021-07-02,2021-07-31,7664.13
-62,CAMPAIGN0062,Campaign 62,Radio,2021-01-20,2021-03-14,46034.92
-63,CAMPAIGN0063,Campaign 63,TV,2021-07-18,2021-08-13,44102.5
-64,CAMPAIGN0064,Campaign 64,Radio,2021-08-21,2021-09-06,24424.36
-65,CAMPAIGN0065,Campaign 65,Social Media,2020-01-15,2020-02-22,6757.39
-66,CAMPAIGN0066,Campaign 66,Billboard,2022-01-05,2022-03-04,12958.59
-67,CAMPAIGN0067,Campaign 67,TV,2022-02-13,2022-03-03,37553.43
-68,CAMPAIGN0068,Campaign 68,Email,2019-07-06,2019-07-28,45876.43
-69,CAMPAIGN0069,Campaign 69,TV,2021-10-20,2021-11-22,44807.6
-70,CAMPAIGN0070,Campaign 70,Social Media,2021-02-28,2021-03-20,16826.23
-71,CAMPAIGN0071,Campaign 71,Email,2022-03-24,2022-04-26,38617.12
-72,CAMPAIGN0072,Campaign 72,Social Media,2020-08-20,2020-10-09,35247.87
-73,CAMPAIGN0073,Campaign 73,Email,2022-10-31,2022-11-11,31686.2
-74,CAMPAIGN0074,Campaign 74,Radio,2020-05-29,2020-06-05,45268.45
-75,CAMPAIGN0075,Campaign 75,Email,2022-04-18,2022-06-03,31451.7
-76,CAMPAIGN0076,Campaign 76,Email,2021-03-30,2021-05-11,17311.33
-77,CAMPAIGN0077,Campaign 77,Billboard,2019-01-27,2019-03-19,45297.26
-78,CAMPAIGN0078,Campaign 78,TV,2019-09-22,2019-11-09,32735.41
-79,CAMPAIGN0079,Campaign 79,Social Media,2020-09-29,2020-11-22,20760.28
-80,CAMPAIGN0080,Campaign 80,Radio,2020-04-30,2020-06-13,24181.05
-81,CAMPAIGN0081,Campaign 81,Billboard,2020-11-06,2020-12-19,36667.59
-82,CAMPAIGN0082,Campaign 82,Email,2020-12-16,2021-01-03,28416.1
-83,CAMPAIGN0083,Campaign 83,Radio,2020-09-24,2020-10-04,16186.88
-84,CAMPAIGN0084,Campaign 84,Radio,2020-06-20,2020-07-02,17671.2
-85,CAMPAIGN0085,Campaign 85,TV,2021-08-27,2021-10-11,11687.91
-86,CAMPAIGN0086,Campaign 86,Billboard,2021-06-09,2021-06-30,13636.21
-87,CAMPAIGN0087,Campaign 87,Social Media,2020-05-27,2020-06-22,40114.24
-88,CAMPAIGN0088,Campaign 88,Radio,2022-08-04,2022-09-19,11654.75
-89,CAMPAIGN0089,Campaign 89,TV,2021-06-29,2021-08-18,12585.95
-90,CAMPAIGN0090,Campaign 90,Billboard,2019-10-05,2019-10-22,40642.38
-91,CAMPAIGN0091,Campaign 91,TV,2022-03-14,2022-04-06,5170.2
-92,CAMPAIGN0092,Campaign 92,Billboard,2021-05-19,2021-07-09,48353.71
-93,CAMPAIGN0093,Campaign 93,TV,2021-03-12,2021-04-24,31528.33
-94,CAMPAIGN0094,Campaign 94,Social Media,2020-04-05,2020-05-16,18846.76
-95,CAMPAIGN0095,Campaign 95,Email,2019-09-17,2019-11-14,31574.27
-96,CAMPAIGN0096,Campaign 96,Billboard,2019-11-20,2019-12-12,40300.62
-97,CAMPAIGN0097,Campaign 97,Billboard,2022-06-30,2022-08-12,30175.89
-98,CAMPAIGN0098,Campaign 98,Social Media,2022-05-21,2022-07-10,24692.96
-99,CAMPAIGN0099,Campaign 99,Radio,2019-01-25,2019-02-27,15441.97
-100,CAMPAIGN0100,Campaign 100,Radio,2021-07-12,2021-07-31,11263.52
+1,CMP001,Intuitive reciprocal function,Social Media,2023-08-18,2024-03-02,18500.09
+2,CMP002,Virtual logistical software,Referral,2024-01-19,2025-08-05,4231.29
+3,CMP003,Total well-modulated projection,Referral,2025-02-01,2025-03-23,8999.95
+4,CMP004,Expanded national alliance,Referral,2024-04-02,2025-01-24,24543.09
+5,CMP005,Devolved tangible concept,Referral,2024-06-09,2025-06-16,26894.12
+6,CMP006,Multi-lateral grid-enabled projection,Search Engine,2024-01-24,2025-02-04,38370.34
+7,CMP007,Cloned directional emulation,TV,2024-03-13,2025-05-08,37227.12
+8,CMP008,Re-contextualized eco-centric standardization,Social Media,2024-09-03,2025-03-11,47233.03
+9,CMP009,Horizontal system-worthy budgetary management,TV,2024-12-07,2025-06-29,45007.04
+10,CMP010,Extended heuristic parallelism,TV,2023-08-21,2024-08-27,27717.22
+11,CMP011,Polarized web-enabled frame,Referral,2023-09-04,2024-06-13,31137.78
+12,CMP012,Reverse-engineered bandwidth-monitored implementation,Email,2024-05-17,2025-02-07,32032.22
+13,CMP013,Synergistic multi-tasking customer loyalty,Search Engine,2023-11-20,2024-01-21,12670.0
+14,CMP014,Function-based radical algorithm,Referral,2025-05-31,2025-06-15,28089.23
+15,CMP015,Advanced mission-critical frame,Search Engine,2024-12-22,2025-04-17,27386.5
+16,CMP016,Fully-configurable solution-oriented solution,Social Media,2025-05-16,2025-06-17,40427.82
+17,CMP017,Programmable regional capacity,TV,2024-11-02,2024-11-11,49952.1
+18,CMP018,Enhanced foreground benchmark,TV,2025-07-13,2025-07-22,36998.62
+19,CMP019,Customer-focused intermediate adapter,Social Media,2023-09-24,2025-07-10,6773.63
+20,CMP020,Fundamental attitude-oriented Graphic Interface,Referral,2025-06-03,2025-07-16,44967.26
+21,CMP021,Up-sized global protocol,Referral,2023-11-18,2024-05-18,1904.36
+22,CMP022,Universal dynamic firmware,Search Engine,2025-04-23,2025-07-14,37311.4
+23,CMP023,Function-based dedicated workforce,Referral,2024-04-11,2025-05-07,22662.42
+24,CMP024,Assimilated asynchronous knowledge user,TV,2023-11-03,2023-12-17,23748.89
+25,CMP025,Business-focused encompassing time-frame,TV,2024-10-18,2025-06-12,16311.37
+26,CMP026,Re-contextualized secondary knowledge user,Social Media,2024-02-26,2024-03-06,27100.03
+27,CMP027,Enterprise-wide fault-tolerant encoding,Search Engine,2025-01-21,2025-07-22,12817.96
+28,CMP028,Networked high-level interface,Referral,2025-06-12,2025-06-21,15220.14
+29,CMP029,Object-based 5thgeneration protocol,TV,2024-06-21,2025-06-11,47885.93
+30,CMP030,Mandatory bi-directional frame,Social Media,2024-01-26,2024-02-05,2575.89
+31,CMP031,Seamless explicit matrices,Referral,2024-06-13,2025-07-28,38753.85
+32,CMP032,Phased empowering circuit,Search Engine,2024-06-11,2024-09-06,37384.95
+33,CMP033,Fundamental bandwidth-monitored synergy,Referral,2024-02-04,2024-02-05,2483.74
+34,CMP034,Integrated reciprocal knowledgebase,Email,2025-01-31,2025-03-28,24667.3
+35,CMP035,Inverse hybrid benchmark,Social Media,2025-05-03,2025-07-05,10705.56
+36,CMP036,Profound demand-driven pricing structure,Social Media,2024-06-06,2025-04-26,14710.33
+37,CMP037,Multi-layered scalable data-warehouse,TV,2024-01-31,2024-07-10,30505.3
+38,CMP038,Reduced multi-tasking info-mediaries,Social Media,2024-03-25,2024-12-17,37557.32
+39,CMP039,Multi-lateral fresh-thinking model,TV,2025-04-13,2025-08-09,10810.45
+40,CMP040,Diverse bandwidth-monitored forecast,Social Media,2025-01-26,2025-02-12,16614.71
+41,CMP041,Ameliorated dynamic ability,Referral,2025-06-29,2025-07-25,30594.26
+42,CMP042,Profound motivating middleware,Email,2024-04-28,2024-07-29,21282.27
+43,CMP043,Fully-configurable system-worthy Internet solution,Email,2024-01-04,2025-07-16,27749.31
+44,CMP044,Optimized mission-critical encoding,Social Media,2025-06-16,2025-07-23,14740.75
+45,CMP045,Profit-focused national monitoring,TV,2025-04-13,2025-04-29,46580.17
+46,CMP046,Public-key local info-mediaries,Search Engine,2024-06-11,2024-12-13,22668.04
+47,CMP047,Digitized human-resource instruction set,Search Engine,2024-11-10,2025-07-11,31962.78
+48,CMP048,Profound fault-tolerant artificial intelligence,Search Engine,2024-07-20,2025-03-03,43240.75
+49,CMP049,Grass-roots intangible extranet,TV,2025-01-22,2025-07-24,24659.08
+50,CMP050,Cloned client-driven leverage,Social Media,2023-11-04,2024-12-22,34072.48
+51,CMP051,Robust tertiary application,Social Media,2024-11-01,2025-01-06,38969.18
+52,CMP052,Multi-lateral intangible access,Email,2024-02-24,2025-02-27,13971.39
+53,CMP053,Synergistic methodical capacity,TV,2024-03-07,2024-10-16,43661.74
+54,CMP054,Enhanced didactic flexibility,Referral,2025-02-22,2025-02-22,41174.97
+55,CMP055,Synergized secondary middleware,Social Media,2025-03-23,2025-06-01,46736.12
+56,CMP056,Implemented zero-defect website,Social Media,2023-12-09,2024-08-14,3143.37
+57,CMP057,Balanced heuristic productivity,Search Engine,2024-02-02,2024-04-13,12375.28
+58,CMP058,Implemented well-modulated function,Social Media,2024-10-20,2025-01-25,3825.72
+59,CMP059,User-friendly 6thgeneration model,Social Media,2024-05-30,2025-03-18,14772.05
+60,CMP060,Multi-layered holistic emulation,TV,2025-04-18,2025-04-22,31606.4
+61,CMP061,Switchable client-driven Graphic Interface,TV,2025-03-12,2025-06-16,49095.8
+62,CMP062,Focused actuating Graphic Interface,Search Engine,2024-12-22,2025-03-11,1726.66
+63,CMP063,Phased zero administration utilization,Search Engine,2025-02-08,2025-04-03,2395.75
+64,CMP064,Synchronized executive superstructure,Referral,2023-09-06,2025-06-07,41648.55
+65,CMP065,Profound 6thgeneration website,Referral,2025-04-12,2025-08-06,3233.78
+66,CMP066,Decentralized global concept,Referral,2024-10-25,2025-04-03,6463.75
+67,CMP067,Triple-buffered incremental time-frame,TV,2024-03-07,2025-01-05,28074.2
+68,CMP068,Fundamental maximized benchmark,Email,2025-06-28,2025-08-16,44957.82
+69,CMP069,Visionary full-range support,Search Engine,2024-05-12,2025-08-20,40627.14
+70,CMP070,Realigned modular analyzer,Search Engine,2023-09-07,2024-11-28,21854.38
+71,CMP071,Vision-oriented 4thgeneration adapter,Email,2024-09-01,2024-09-13,41138.02
+72,CMP072,Implemented didactic help-desk,Email,2024-01-10,2025-04-07,28747.65
+73,CMP073,Integrated static solution,Social Media,2025-07-21,2025-08-15,5495.67
+74,CMP074,Triple-buffered scalable frame,Referral,2025-02-18,2025-06-14,31933.72
+75,CMP075,Synergized local infrastructure,Referral,2024-12-13,2025-05-18,48497.46
+76,CMP076,Implemented asymmetric system engine,Search Engine,2025-05-12,2025-06-10,28739.75
+77,CMP077,Function-based neutral time-frame,Email,2023-08-26,2025-03-14,36445.66
+78,CMP078,Progressive tangible approach,Social Media,2023-10-26,2025-04-13,10859.25
+79,CMP079,Universal client-driven Graphical User Interface,Social Media,2025-02-19,2025-07-26,12117.6
+80,CMP080,Seamless impactful projection,TV,2023-09-12,2023-09-18,21906.82
+81,CMP081,Quality-focused actuating array,Search Engine,2024-11-06,2025-04-09,20559.03
+82,CMP082,Networked motivating contingency,Search Engine,2024-02-28,2025-03-13,33038.11
+83,CMP083,Monitored leadingedge intranet,Social Media,2024-08-20,2025-08-09,8783.32
+84,CMP084,Diverse systemic challenge,Social Media,2025-05-18,2025-08-03,35133.05
+85,CMP085,Total maximized ability,Social Media,2024-01-18,2025-06-07,18578.59
+86,CMP086,Digitized homogeneous help-desk,Social Media,2025-06-12,2025-08-09,33098.66
+87,CMP087,Progressive homogeneous secured line,TV,2025-01-01,2025-04-30,33335.0
+88,CMP088,Self-enabling real-time model,Referral,2025-01-12,2025-07-09,21775.53
+89,CMP089,Enhanced solution-oriented paradigm,Search Engine,2023-10-26,2025-02-23,14155.55
+90,CMP090,Pre-emptive asymmetric project,Referral,2023-12-18,2024-03-08,27519.87
+91,CMP091,Switchable empowering hub,TV,2024-01-13,2025-02-10,12583.88
+92,CMP092,Horizontal solution-oriented middleware,Email,2024-12-11,2025-06-30,29765.12
+93,CMP093,Reduced eco-centric functionalities,Social Media,2024-10-01,2025-06-22,31000.55
+94,CMP094,Organic uniform superstructure,Social Media,2024-12-16,2025-01-08,15736.94
+95,CMP095,Managed empowering help-desk,Email,2024-04-07,2025-03-02,16741.58
+96,CMP096,Optimized eco-centric ability,Social Media,2025-04-18,2025-06-05,35740.62
+97,CMP097,Sharable 3rdgeneration function,Search Engine,2024-08-30,2025-04-30,42702.78
+98,CMP098,Sharable eco-centric structure,Email,2025-01-02,2025-04-17,40805.85
+99,CMP099,Customizable transitional strategy,Social Media,2024-07-23,2025-03-04,40724.45
+100,CMP100,Total regional methodology,Social Media,2025-07-03,2025-07-28,38182.89
+101,CMP101,Persevering grid-enabled implementation,Social Media,2024-07-02,2024-09-14,23689.37
+102,CMP102,Proactive asynchronous toolset,Referral,2024-08-04,2024-10-26,7912.07
+103,CMP103,De-engineered clear-thinking matrix,Social Media,2024-06-20,2025-08-01,33892.16
+104,CMP104,Centralized stable parallelism,TV,2025-07-12,2025-08-21,18112.43
+105,CMP105,Enhanced dedicated Local Area Network,Social Media,2025-04-17,2025-06-23,39110.77
+106,CMP106,Organic fault-tolerant paradigm,TV,2025-06-04,2025-07-08,35510.54
+107,CMP107,Distributed transitional website,TV,2023-12-11,2025-08-11,1160.58
+108,CMP108,Business-focused fresh-thinking archive,Search Engine,2023-09-26,2024-10-08,38089.99
+109,CMP109,Universal web-enabled neural-net,Referral,2025-07-17,2025-07-22,7802.62
+110,CMP110,User-centric multimedia secured line,Referral,2023-08-18,2025-02-08,13570.27
+111,CMP111,De-engineered 5thgeneration groupware,Social Media,2024-06-02,2024-08-09,39795.77
+112,CMP112,Distributed 6thgeneration support,Search Engine,2024-07-26,2025-08-04,28817.42
+113,CMP113,Programmable content-based core,TV,2025-02-21,2025-06-30,40257.02
+114,CMP114,Decentralized motivating website,TV,2023-09-08,2025-05-04,13526.64
+115,CMP115,Polarized national paradigm,TV,2024-04-26,2025-08-14,19610.55
+116,CMP116,Versatile 24/7 moderator,Search Engine,2023-08-10,2025-02-27,3072.15
+117,CMP117,Persevering 6thgeneration process improvement,Email,2024-06-28,2024-12-26,8015.9
+118,CMP118,Robust bandwidth-monitored task-force,Email,2024-03-16,2025-08-18,49680.53
+119,CMP119,Intuitive zero administration conglomeration,Search Engine,2024-08-06,2024-08-28,43642.75
+120,CMP120,Ameliorated holistic task-force,Referral,2024-04-12,2024-05-29,14250.69
+121,CMP121,Profit-focused high-level functionalities,Referral,2024-12-31,2025-01-22,39123.5
+122,CMP122,Stand-alone 3rdgeneration model,Social Media,2024-07-01,2024-08-27,35597.03
+123,CMP123,Progressive directional open architecture,Referral,2025-07-11,2025-07-17,35859.53
+124,CMP124,Future-proofed modular concept,Search Engine,2025-05-18,2025-08-04,38789.27
+125,CMP125,Horizontal needs-based artificial intelligence,Email,2023-11-02,2024-05-04,16894.54
+126,CMP126,Fully-configurable actuating interface,Email,2024-06-22,2024-09-11,7573.74
+127,CMP127,Profound transitional implementation,Referral,2025-05-02,2025-06-29,45359.77
+128,CMP128,Universal secondary throughput,Email,2023-11-15,2024-05-05,34491.14
+129,CMP129,Decentralized background product,Search Engine,2023-11-14,2024-08-06,18941.31
+130,CMP130,Automated impactful leverage,Search Engine,2024-08-14,2025-04-02,1117.91
+131,CMP131,Programmable intermediate database,Search Engine,2024-12-12,2025-04-01,30898.92
+132,CMP132,Cloned bifurcated project,Referral,2024-01-24,2025-08-09,35250.52
+133,CMP133,Sharable multi-state superstructure,Referral,2023-11-11,2024-03-14,29630.95
+134,CMP134,Open-source intermediate capability,Social Media,2023-12-26,2025-06-25,15669.84
+135,CMP135,Total uniform alliance,Search Engine,2024-12-26,2025-04-11,22984.41
+136,CMP136,Virtual demand-driven knowledge user,Email,2025-03-30,2025-04-19,18144.39
+137,CMP137,Open-architected multi-state knowledgebase,Email,2025-03-04,2025-04-19,44871.77
+138,CMP138,Optional discrete implementation,Search Engine,2024-12-04,2025-08-19,47320.54
+139,CMP139,Re-contextualized full-range Graphic Interface,Email,2024-03-06,2025-06-02,46932.12
+140,CMP140,Versatile impactful matrices,Referral,2024-11-29,2025-03-02,14684.25
+141,CMP141,Programmable clear-thinking task-force,Email,2025-02-19,2025-04-09,29614.49
+142,CMP142,Up-sized upward-trending algorithm,Search Engine,2024-08-05,2024-12-26,13788.59
+143,CMP143,Implemented optimizing alliance,Email,2025-05-06,2025-07-07,21610.35
+144,CMP144,Compatible radical system engine,Search Engine,2025-05-15,2025-06-01,34630.59
+145,CMP145,Profound transitional data-warehouse,Referral,2024-07-18,2025-01-23,33760.66
+146,CMP146,Re-contextualized 4thgeneration architecture,Referral,2025-01-11,2025-04-18,37143.24
+147,CMP147,Virtual empowering initiative,Email,2025-07-01,2025-07-18,8408.01
+148,CMP148,Visionary systematic benchmark,Search Engine,2025-04-24,2025-08-17,4494.38
+149,CMP149,Balanced non-volatile toolset,Social Media,2024-06-25,2025-07-26,25577.42
+150,CMP150,Switchable web-enabled Local Area Network,Referral,2024-07-22,2024-09-24,33772.2
+151,CMP151,Inverse scalable help-desk,Referral,2025-07-18,2025-07-24,49887.16
+152,CMP152,Intuitive bandwidth-monitored solution,Social Media,2025-04-12,2025-06-19,35157.52
+153,CMP153,Ameliorated tangible archive,Social Media,2024-11-01,2025-07-29,4923.16
+154,CMP154,Enhanced multi-tasking synergy,TV,2023-12-14,2024-04-02,30750.33
+155,CMP155,Intuitive multi-state throughput,Social Media,2023-12-08,2024-04-01,32378.45
+156,CMP156,Progressive next generation concept,Referral,2024-03-09,2024-10-01,19896.62
+157,CMP157,Profound contextually-based process improvement,TV,2024-10-03,2024-12-20,29790.48
+158,CMP158,Right-sized mission-critical productivity,Referral,2023-10-15,2023-10-18,19212.29
+159,CMP159,Right-sized 6thgeneration hierarchy,Referral,2024-05-08,2025-08-02,11837.79
+160,CMP160,Vision-oriented global ability,TV,2025-02-26,2025-05-12,11389.65
+161,CMP161,Devolved bottom-line task-force,Social Media,2024-09-21,2025-04-28,39823.33
+162,CMP162,De-engineered demand-driven contingency,TV,2024-06-01,2024-07-17,18145.51
+163,CMP163,Realigned tangible data-warehouse,Social Media,2025-02-27,2025-07-25,19787.24
+164,CMP164,Devolved exuding firmware,Email,2023-10-31,2024-06-13,17005.26
+165,CMP165,Front-line high-level strategy,Social Media,2024-03-15,2024-06-05,32151.2
+166,CMP166,Total regional product,Email,2024-04-11,2024-05-13,8791.25
+167,CMP167,Open-architected zero administration standardization,Search Engine,2025-03-16,2025-04-23,10738.03
+168,CMP168,Horizontal empowering methodology,Social Media,2023-12-06,2025-05-21,26808.99
+169,CMP169,Exclusive heuristic process improvement,Email,2025-02-04,2025-08-11,49536.63
+170,CMP170,Re-engineered zero-defect alliance,Search Engine,2024-09-25,2025-04-14,40980.74
+171,CMP171,Multi-channeled real-time synergy,Email,2023-08-23,2025-07-03,47709.66
+172,CMP172,Progressive bi-directional challenge,TV,2024-06-28,2024-07-02,22515.62
+173,CMP173,Centralized multi-state neural-net,Search Engine,2025-07-06,2025-08-06,40311.43
+174,CMP174,Optimized grid-enabled flexibility,Search Engine,2025-05-27,2025-06-17,36889.11
+175,CMP175,Multi-channeled client-server hub,Email,2023-12-13,2025-02-01,26788.78
+176,CMP176,Upgradable leadingedge matrices,Search Engine,2024-10-04,2024-10-13,5037.79
+177,CMP177,Advanced tertiary methodology,Search Engine,2023-11-19,2024-08-12,45186.64
+178,CMP178,Reverse-engineered non-volatile implementation,Email,2024-02-27,2024-09-03,30573.24
+179,CMP179,Re-engineered national intranet,Email,2024-10-01,2025-04-08,19781.72
+180,CMP180,Devolved motivating moratorium,Social Media,2023-11-27,2024-12-19,4557.05
+181,CMP181,Multi-tiered executive success,Referral,2023-09-09,2025-06-03,15173.87
+182,CMP182,Reduced real-time hub,TV,2025-05-31,2025-06-30,45350.14
+183,CMP183,Multi-layered multimedia application,Referral,2024-01-06,2025-02-19,32394.62
+184,CMP184,Face-to-face context-sensitive methodology,TV,2025-02-08,2025-06-14,48915.39
+185,CMP185,Virtual systematic toolset,Social Media,2023-10-02,2025-05-24,19572.17
+186,CMP186,Exclusive scalable strategy,Search Engine,2024-09-08,2025-04-21,10446.37
+187,CMP187,Front-line disintermediate website,Referral,2024-11-03,2025-04-04,49184.52
+188,CMP188,Customizable static artificial intelligence,TV,2023-09-26,2023-12-27,17768.7
+189,CMP189,Realigned discrete hierarchy,Referral,2024-02-16,2025-06-09,44707.25
+190,CMP190,User-centric modular website,Email,2024-04-01,2024-10-29,40685.19
+191,CMP191,Persevering empowering groupware,Social Media,2024-12-14,2025-08-12,23615.08
+192,CMP192,Open-architected multi-state workforce,Social Media,2025-06-10,2025-08-05,26639.94
+193,CMP193,Profit-focused foreground framework,Social Media,2024-01-22,2025-07-08,31584.22
+194,CMP194,Phased intangible Local Area Network,Social Media,2025-04-14,2025-06-13,20198.52
+195,CMP195,De-engineered hybrid help-desk,Email,2024-02-14,2025-01-29,6945.53
+196,CMP196,Reduced even-keeled knowledgebase,Email,2024-08-22,2024-10-31,46576.72
+197,CMP197,Upgradable attitude-oriented hardware,Social Media,2024-10-09,2025-04-10,36265.28
+198,CMP198,Triple-buffered holistic orchestration,Search Engine,2023-08-12,2025-06-03,1721.34
+199,CMP199,Versatile impactful implementation,TV,2025-01-12,2025-05-19,3625.81
+200,CMP200,Extended grid-enabled framework,Search Engine,2025-04-16,2025-07-19,36420.91

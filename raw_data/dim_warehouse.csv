@@ -1,0 +1,21 @@
+warehouse_key,warehouse_id,address_key,sla_days,created_at,city,region,country
+1,W001,3099,7,32:02.7,Adelaide,SA,Australia
+2,W002,6234,5,32:02.7,Melbourne,VIC,Australia
+3,W003,7690,2,32:02.7,New York,NY,USA
+4,W004,7002,2,32:02.7,Sydney,NSW,Australia
+5,W005,6716,6,32:02.7,New York,NY,USA
+6,W006,6975,4,32:02.7,Auckland,AUK,New Zealand
+7,W007,9713,7,32:02.7,Brisbane,QLD,Australia
+8,W008,4476,4,32:02.7,Wellington,WLG,New Zealand
+9,W009,6594,6,32:02.7,Auckland,AUK,New Zealand
+10,W010,4709,2,32:02.7,Toronto,ON,Canada
+11,W011,1989,3,32:02.7,Brisbane,QLD,Australia
+12,W012,5425,3,32:02.7,London,ENG,United Kingdom
+13,W013,411,6,32:02.7,Brisbane,QLD,Australia
+14,W014,9711,2,32:02.7,New York,NY,USA
+15,W015,1756,2,32:02.7,New York,NY,USA
+16,W016,154,1,32:02.7,Sydney,NSW,Australia
+17,W017,5643,5,32:02.7,Toronto,ON,Canada
+18,W018,5222,2,32:02.7,Auckland,AUK,New Zealand
+19,W019,5570,6,32:02.7,Auckland,AUK,New Zealand
+20,W020,1971,2,32:02.7,Melbourne,VIC,Australia
