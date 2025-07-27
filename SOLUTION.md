@@ -1,7 +1,7 @@
 
 ---
 ## 📊 Q1: Who are our most valuable customers (lifetime value)?
-**▶️ Script:** [`customer_lifetime_value.sql`](https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/analysis/1.customer_lifetime_value.sql)
+**▶️ Script:** [`customer_lifetime_value.sql`](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/Retail-Profit-Drain-Analysis/analysis/1.customer_lifetime_value.sql)
 
 **📊 Sample Output:**
 | customer_key | total_orders | total_spent | total_returns | net_spent | active_days | avg_spend_per_order |
