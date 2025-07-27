@@ -16,6 +16,7 @@
 - Identified top VIP customers by net spend.
 - Long-term loyal customers spend consistently high per order, indicating strong retention potential.
 
+
 **✅ Next Action:**
 - Use this segment for loyalty and early access campaigns to further reward and retain them.
 - **Further Analysis:** Segment these VIPs into CLV tiers (e.g., Platinum, Gold) and analyze their specific product preferences, engagement patterns, and marketing responsiveness for hyper-targeted strategies.
