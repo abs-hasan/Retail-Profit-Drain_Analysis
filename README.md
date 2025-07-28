@@ -29,7 +29,7 @@ To uncover the hidden causes of **profit erosion** in a mid-sized retail operati
 
 Before we jump into our work, it would be better if have a look at the data which will be used to complete our task.
 <p align="center">
-<img src="https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/schema/data_model.png" width=70% height=70%> </p>
+<img src="https://github.com/abs-hasan/Retail-Profit-Drain-Analysis/blob/main/Retail-Profit-Drain-Analysis/schema/data_model.png" width=70% height=70%> </p>
 <br>
 
 ## 🧠 Key Business Questions
@@ -47,7 +47,7 @@ Before we jump into our work, it would be better if have a look at the data whi
 
 # Solution
 ---
-Let's Have a look at our solution: [![solution](https://img.shields.io/badge/Final_SQL_Script-green?)](https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/SOLUTION.md)
+Let's Have a look at our solution: [![solution](https://img.shields.io/badge/Final_SQL_Script-green?)](https://github.com/abs-hasan/Retail-Profit-Drain-Analysis/blob/main/Retail-Profit-Drain-Analysis/SOLUTION.md)
 
 ---
 
@@ -85,7 +85,7 @@ The root of the profit drain is a combination of **customer retention failures, 
 By completing this project, we demonstrated:
 - **Database Design**: Created normalized star-schema with well-defined primary and foreign keys
 - **Data Modeling**: Mapped real-world business processes into dimensional models
-- **ETL Development (via Python)**: Loaded CSV files into SQL tables using Python-based data loaders.[![Script](https://img.shields.io/badge/Python_Script-blue?)](https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/data_uploading/load_dimensions.py)
+- **ETL Development (via Python)**: Loaded CSV files into SQL tables using Python-based data loaders.[![Script](https://img.shields.io/badge/Python_Script-blue?)](https://github.com/abs-hasan/Retail-Profit-Drain-Analysis/blob/main/Retail-Profit-Drain-Analysis/data_uploading/load_dimensions.py)
 
 - **Advanced SQL**: Window functions, CTEs, joins, aggregations, date logic
 - **Dimensional Modeling**: Star schema design with fact & dimension tables
