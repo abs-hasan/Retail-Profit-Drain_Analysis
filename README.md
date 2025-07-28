@@ -29,7 +29,7 @@ To uncover the hidden causes of **profit erosion** in a mid-sized retail operati
 
 Before we jump into our work, it would be better if have a look at the data which will be used to complete our task.
 <p align="center">
-<img src="https://github.com/abs-hasan/Retail-Profit-Drain-Analysis/blob/main/Retail-Profit-Drain-Analysis/schema/data_model.png" width=70% height=70%> </p>
+<img src="https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/schema/data_model.png" width=70% height=70%> </p>
 <br>
 
 ## 🧠 Key Business Questions
