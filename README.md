@@ -47,7 +47,7 @@ Before we jump into our work, it would be better if have a look at the data whi
 
 # Solution
 ---
-Let's Have a look at our solution: [![solution](https://img.shields.io/badge/Final_SQL_Script-green?)](https://github.com/abs-hasan/Retail-Profit-Drain-Analysis/blob/main/Retail-Profit-Drain-Analysis/SOLUTION.md)
+Let's Have a look at our solution: [![solution](https://img.shields.io/badge/Final_SQL_Script-green?)](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/SOLUTION.md)
 
 ---
 
