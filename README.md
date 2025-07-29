@@ -85,7 +85,7 @@ The root of the profit drain is a combination of **customer retention failures, 
 By completing this project, we demonstrated:
 - **Database Design**: Created normalized star-schema with well-defined primary and foreign keys
 - **Data Modeling**: Mapped real-world business processes into dimensional models
-- **ETL Development (via Python)**: Loaded CSV files into SQL tables using Python-based data loaders.[![Script](https://img.shields.io/badge/Python_Script-blue?)](https://github.com/abs-hasan/Retail-Profit-Drain-Analysis/blob/main/Retail-Profit-Drain-Analysis/data_uploading/load_dimensions.py)
+- **ETL Development (via Python)**: Loaded CSV files into SQL tables using Python-based data loaders.[![Script](https://img.shields.io/badge/Python_Script-blue?)](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/schema/data_loading.sql)
 
 - **Advanced SQL**: Window functions, CTEs, joins, aggregations, date logic
 - **Dimensional Modeling**: Star schema design with fact & dimension tables
