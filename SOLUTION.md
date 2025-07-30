@@ -1,7 +1,7 @@
 
 ---
 ## 📊 Q1: Who are our most valuable customers (lifetime value)?
-**▶️ Script:** [`customer_lifetime_value.sql`](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/Retail-Profit-Drain-Analysis/analysis/1.customer_lifetime_value.sql)
+**▶️ Script:** [`customer_lifetime_value.sql`](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/analysis/1.customer_lifetime_value.sql)
 
 **📊 Sample Output:**
 | customer_key | total_orders | total_spent | total_returns | net_spent | active_days | avg_spend_per_order |
@@ -24,7 +24,7 @@
 ---
 
 ## ↺ Q2: How many customers are active, dormant, or at risk of churn?
-**▶️ Script:** [`churn_risk_by_segment.sql`](https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/analysis/2.churn_risk_by_segment.sql)
+**▶️ Script:** [`churn_risk_by_segment.sql`](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/analysis/2.churn_risk_by_segment.sql)
 
 **📊 Churn Distribution:**
 | churn_status        | customer_count |
@@ -43,7 +43,7 @@
 ---
 
 ## 📢 Q3: Campaign ROI Analysis
-**▶️ Script:** [`campaign_roi_analysis.sql`](https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/analysis/3_campaign_roi_analysis.sql)
+**▶️ Script:** [`campaign_roi_analysis.sql`](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/analysis/3_campaign_roi_analysis.sql)
 
 **🔍 Business Question** Which marketing campaigns are yielding the lowest ROI?
 
@@ -66,7 +66,7 @@
 ---
 
 ## ↺ Q4: Return Rate by Product
-**▶️ Script:** [`return_rate_by_product.sql`](https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/analysis/4._return_rate_by_product.sql)
+**▶️ Script:** [`return_rate_by_product.sql`](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/analysis/4._return_rate_by_product.sql)
 
 **🔍 Business Question** Which products are being returned most, and how do they affect profitability?
 
@@ -89,7 +89,7 @@
 ---
 
 ## 📦 Q5: Inventory Drift Analysis
-**▶️ Script:** [`inventory_drift_analysis.sql`](https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/analysis/5_inventory_drift_analysis.sql)
+**▶️ Script:** [`inventory_drift_analysis.sql`](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/analysis/5_inventory_drift_analysis.sql)
 
 **🔍 Business Question** Which products are being sold more than they are restocked — creating a risk of stockouts or forecasting error?
 
@@ -111,7 +111,7 @@
 ---
 
 ## 🌎 Q6: Profit by State
-**▶️ Script:** [`profit_by_state.sql`](https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/analysis/6.profit_by_state.sql)
+**▶️ Script:** [`profit_by_state.sql`](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/analysis/6.profit_by_state.sql)
 
 **🔍 Business Question** Which U.S. states are generating the highest net revenue after returns?
 
@@ -134,7 +134,7 @@
 ---
 
 ## 🏬 Q7: Profit by Store Type
-**▶️ Script:** [`profit_by_store.sql`](https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/analysis/7.profit_by_store.sql)
+**▶️ Script:** [`profit_by_store.sql`](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/analysis/7.profit_by_store.sql)
 
 **🔍 Business Question** Do warehouse stores generate more net revenue than retail outlets?
 
@@ -154,7 +154,7 @@
 ---
 
 ## 🚚 Q8: Shipping Delay and Risk Impact
-**▶️ Script:** [`shipping_delay_impact.sql`](https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/analysis/8.shipping_delay_impact.sql)
+**▶️ Script:** [`shipping_delay_impact.sql`](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/analysis/8.shipping_delay_impact.sql)
 
 **🔍 Business Question** Which products are facing shipping delays, and could they contribute to higher returns or churn?
 
@@ -177,7 +177,7 @@
 ---
 
 ## 🔁 Q9: Shipping Delay vs Return Rate
-**▶️ Script:** [`shipping_delay_vs_return.sql`](https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/analysis/9.shipping_delay_vs_return.sql)
+**▶️ Script:** [`shipping_delay_vs_return.sql`](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/analysis/9.shipping_delay_vs_return.sql)
 
 **🔍 Business Question** Are delayed shipments (>3 days) more likely to result in returned products?
 
@@ -198,7 +198,7 @@
 
 ## 💣 Q10: Low Revenue Per Unit Products (Profit Risk)
 
-**▶️ Script:** [`revenue_per_unit_net.sql`](https://github.com/abs-hasan/testtesttest/blob/main/Retail-Profit-Drain-Analysis/analysis/10.%20Revenue%20Per%20Unit.sql)
+**▶️ Script:** [`revenue_per_unit_net.sql`](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis/blob/main/analysis/10.%20Revenue%20Per%20Unit.sql)
 
 **🔍 Business Question:** Which popular products are generating weak returns **per unit sold** — and might be driving hidden margin losses?
 
